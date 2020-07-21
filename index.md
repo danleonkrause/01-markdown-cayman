@@ -1,4 +1,4 @@
-[Home]() • [About](./about.html) • [Contact](./contact.html)
+Home • [About](./about.html) • [Contact](./contact.html)
 
 ## Home
 
