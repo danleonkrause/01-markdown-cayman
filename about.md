@@ -1,13 +1,8 @@
 ###### Navigation
 
-- [Home](./index.html)
-- [About](./about.html)
-- [Contact](./contact.html)
+[Home](./index.html) • [About](./about.html) • [Contact](./contact.html)
 
 ## About
-
-### Large image
-![Image](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=5100&q=80)
 
 ### Summary
 _Overview of user_
@@ -15,7 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel eleifend odio.
 
 [Linkedin Profile](https://www.linkedin.com/)
 
-### Small image
 ![Image](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=5100&q=80)
 
 ### Work Experience
