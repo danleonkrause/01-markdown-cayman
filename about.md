@@ -2,6 +2,8 @@
 
 ## About
 
+![Image](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=5100&q=80)
+
 
 ### Summary
 
@@ -10,8 +12,6 @@ _Overview of user_
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel eleifend odio. Duis a lacinia odio. In posuere tincidunt enim nec vestibulum. Proin id nulla tellus. Suspendisse potenti. Suspendisse semper justo purus, non egestas turpis aliquam eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 [Linkedin Profile](https://www.linkedin.com/)
-
-![Image](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=5100&q=80)
 
 
 ### Work Experience
